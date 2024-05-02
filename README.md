@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hullchar
-- 👀 I’m currently learning Python and Advanced Data Analytics
+- 👀 I’m currently learning MySQL and Advanced Data Analytics
 - 💞️ I’m looking to collaborate on projects and grow my data skills. 
 
 <!---
